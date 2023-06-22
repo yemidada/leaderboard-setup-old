@@ -99,10 +99,10 @@ Clone this repository to your desired folder:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/yemidada/desktop-version-portfolio.git
+$ git clone https://github.com/yemidada/leaderboard-setup.git
 
 # Go into the repository
-$ cd desktop-version-portfolio
+$ cd leaderboard-setup
 
 # Install dependencies
 $ npm install
